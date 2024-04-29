@@ -1,3 +1,7 @@
 # MODULE 8 REPOSITORY README
 
-## Writing 
+## Writing programs that are maintainable, readable, and adaptable can be difficult, but from my experience I have found so far is to have some peer review your code to make sure it makes sense to someone else. In the real world, you aren't coding alone, there is always someone that you can bounce ideas off, and collaborate with to make sure that everything is concise and is coherent. Developing the CRUD module took some time to get right as I would make changes, find it didn't work as intended, and then reevaluate and try again. Trial and error is big factor for success for me because it helps me learn and develop as a programmer. Even though we only used the CRUD module to read the data, we could just as easily use it to perform the other functions of create, update and delete.
+
+## I wouldn't say that my approach differed too much from previous methods. Generally, I read the material/resources a few times over to get a good understanding of what is being asked and try to work on the most efficient implementation. After working on this project I defiitely have a much better understanding of how everything works and how finnicky it can be if one thing is out of place or a certain callback is missing.
+
+## Computer scientists hold very important roles in society, and without them, there would be no technology. Managing databases, developing applications, machine learning, and data security are all things that come to mind when considering computer scientists. My work on a type of project like this is extremely beneficial to any end user because it takes hard to understand and complicated data, and turns it into a user friendly database/dashboard. 
